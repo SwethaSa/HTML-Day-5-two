@@ -1,4 +1,4 @@
-# Events-Home-Page
+# Events-Booking-Page
 
 📱 HTML & CSS - Day 5: Responsive Web Design
 🚀 Overview
